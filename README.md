@@ -4,6 +4,8 @@ In this repository, I use for loops and apply a pixel-by-pixel approach to the f
 
 <img width="962" alt="Screen Shot 2024-04-24 at 10 35 48 AM" src="https://github.com/ameengee/Slow_ISP/assets/80045933/8df5bda7-a927-46a6-8a54-d4ed1269709d">
 
+- image source: (https://tinyurl.com/2zmvaavb)
+
 # Dependencies
 
 - numpy
