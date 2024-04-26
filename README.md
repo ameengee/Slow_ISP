@@ -4,8 +4,6 @@ In this repository, I use for loops and apply a pixel-by-pixel approach to the f
 
 <img width="962" alt="Screen Shot 2024-04-24 at 10 35 48 AM" src="https://github.com/ameengee/Slow_ISP/assets/80045933/8df5bda7-a927-46a6-8a54-d4ed1269709d">
 
-- image source: (https://tinyurl.com/2zmvaavb)
-
 # Dependencies
 
 - numpy
@@ -15,7 +13,6 @@ In this repository, I use for loops and apply a pixel-by-pixel approach to the f
 ### Requires an RGGB bayer domain image file
 
 - The file I use in this repository is called "color_checker.pgm". I took this image from Mr. Qui Juipin's repository, fast-OpenISP (https://github.com/QiuJueqin/fast-openISP). All of the code is my own.
-- The image can also be downloaded at this google drive public folder: https://drive.google.com/drive/folders/10v-zYS3jZPgDn0IxzZH8v7MW8SD_cREL?usp=sharing
 
 # Usage
 
